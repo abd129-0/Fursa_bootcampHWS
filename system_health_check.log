@@ -1,0 +1,489 @@
+
+[2023-12-17 10:12:22] Performing System Health Check and Performance Monitoring...
+[2023-12-17 10:12:22] Checking essential services...
+ at 2023-12-17 10:12:22 ssh is running.
+at 2023-12-17 10:12:22 http is not running.
+at 2023-12-17 10:12:22 https is not running.
+at 2023-12-17 10:12:22 mysql is not running.
+[2023-12-17 10:12:22] Monitoring disk usage...
+at 2023-12-17 10:12:22
+Filesystem: /dev/loop0
+Usage: 100%
+-------------------
+at 2023-12-17 10:12:22
+Filesystem: /dev/loop1
+Usage: 100%
+-------------------
+at 2023-12-17 10:12:22
+Filesystem: /dev/loop2
+Usage: 100%
+-------------------
+at 2023-12-17 10:12:22
+Filesystem: /dev/loop3
+Usage: 100%
+-------------------
+at 2023-12-17 10:12:22
+Filesystem: /dev/loop5
+Usage: 100%
+-------------------
+at 2023-12-17 10:12:22
+Filesystem: /dev/loop6
+Usage: 100%
+-------------------
+at 2023-12-17 10:12:22
+Filesystem: /dev/loop7
+Usage: 100%
+-------------------
+at 2023-12-17 10:12:22
+Filesystem: /dev/loop8
+Usage: 100%
+-------------------
+at 2023-12-17 10:12:22
+Filesystem: /dev/loop12
+Usage: 100%
+-------------------
+at 2023-12-17 10:12:22
+Filesystem: /dev/loop18
+Usage: 100%
+-------------------
+at 2023-12-17 10:12:22
+Filesystem: /dev/loop10
+Usage: 100%
+-------------------
+at 2023-12-17 10:12:22
+Filesystem: /dev/loop9
+Usage: 100%
+-------------------
+at 2023-12-17 10:12:22
+Filesystem: /dev/loop19
+Usage: 100%
+-------------------
+at 2023-12-17 10:12:22
+Filesystem: /dev/loop21
+Usage: 100%
+-------------------
+at 2023-12-17 10:12:22
+Filesystem: /dev/loop11
+Usage: 100%
+-------------------
+at 2023-12-17 10:12:22
+Filesystem: /dev/loop22
+Usage: 100%
+-------------------
+at 2023-12-17 10:12:22
+Filesystem: /dev/loop30
+Usage: 100%
+-------------------
+at 2023-12-17 10:12:22
+Filesystem: /dev/loop24
+Usage: 100%
+-------------------
+at 2023-12-17 10:12:22
+Filesystem: /dev/loop13
+Usage: 100%
+-------------------
+at 2023-12-17 10:12:22
+Filesystem: /dev/loop17
+Usage: 100%
+-------------------
+at 2023-12-17 10:12:22
+Filesystem: /dev/loop20
+Usage: 100%
+-------------------
+at 2023-12-17 10:12:22
+Filesystem: /dev/loop28
+Usage: 100%
+-------------------
+at 2023-12-17 10:12:22
+Filesystem: /dev/loop31
+Usage: 100%
+-------------------
+at 2023-12-17 10:12:22
+Filesystem: /dev/loop26
+Usage: 100%
+-------------------
+at 2023-12-17 10:12:22
+Filesystem: /dev/loop25
+Usage: 100%
+-------------------
+at 2023-12-17 10:12:22
+Filesystem: /dev/loop34
+Usage: 100%
+-------------------
+at 2023-12-17 10:12:22
+Filesystem: /dev/loop29
+Usage: 100%
+-------------------
+at 2023-12-17 10:12:22
+Filesystem: /dev/loop36
+Usage: 100%
+-------------------
+at 2023-12-17 10:12:22
+Filesystem: /dev/loop15
+Usage: 100%
+-------------------
+at 2023-12-17 10:12:22
+Filesystem: /dev/loop27
+Usage: 100%
+-------------------
+at 2023-12-17 10:12:22
+Filesystem: /dev/loop14
+Usage: 100%
+-------------------
+at 2023-12-17 10:12:22
+Filesystem: /dev/loop33
+Usage: 100%
+-------------------
+at 2023-12-17 10:12:22
+Filesystem: /dev/loop16
+Usage: 100%
+-------------------
+at 2023-12-17 10:12:22
+Filesystem: /dev/loop23
+Usage: 100%
+-------------------
+at 2023-12-17 10:12:22
+Filesystem: /dev/loop35
+Usage: 100%
+-------------------
+at 2023-12-17 10:12:22
+Filesystem: /dev/loop37
+Usage: 100%
+-------------------
+at 2023-12-17 10:12:22
+Filesystem: /dev/loop32
+Usage: 100%
+-------------------
+at 2023-12-17 10:12:22
+Filesystem: /dev/loop39
+Usage: 100%
+-------------------
+at 2023-12-17 10:12:22
+Filesystem: /dev/loop41
+Usage: 100%
+-------------------
+at 2023-12-17 10:12:22
+Filesystem: /dev/loop38
+Usage: 100%
+-------------------
+at 2023-12-17 10:12:22
+Filesystem: /dev/loop42
+Usage: 100%
+-------------------
+at 2023-12-17 10:12:22
+Filesystem: /dev/loop43
+Usage: 100%
+-------------------
+at 2023-12-17 10:12:22
+Filesystem: /dev/loop40
+Usage: 100%
+-------------------
+at 2023-12-17 10:12:22
+Filesystem: /dev/loop44
+Usage: 100%
+-------------------
+[2023-12-17 10:12:22] Checking read-only file systems...
+2023-12-17 10:12:22 - Read-only file systems:
+/dev/nvme0n1p6
+tmpfs
+systemd-1
+gvfsd-fuse
+/dev/fuse
+/dev/loop0
+/dev/loop1
+/dev/loop2
+/dev/loop3
+/dev/loop5
+/dev/loop6
+/dev/loop7
+/dev/loop8
+/dev/loop12
+/dev/loop18
+/dev/loop10
+/dev/loop9
+/dev/loop19
+/dev/loop21
+/dev/loop11
+/dev/loop22
+/dev/loop30
+/dev/loop24
+/dev/loop13
+/dev/loop17
+/dev/loop20
+/dev/loop28
+/dev/loop31
+/dev/loop26
+/dev/loop25
+/dev/loop34
+/dev/loop29
+/dev/loop36
+/dev/loop15
+/dev/loop27
+/dev/loop14
+/dev/loop33
+/dev/loop16
+/dev/loop23
+/dev/loop35
+/dev/loop37
+/dev/loop32
+/dev/loop39
+/dev/loop41
+/dev/loop38
+/dev/loop42
+/dev/loop43
+/dev/loop40
+/dev/nvme0n1p2
+/dev/loop44
+[2023-12-17 10:12:22] Monitoring processes...
+2023-12-17 10:12:22 - No processes exceed the thresholds.
+[2023-12-17 10:12:22] Analyzing logs...
+2023-12-17 10:12:22 - No Errors or Warnings found in /var/log/syslog.
+2023-12-17 10:12:22 - Log file not found: /var/log/messages
+Unauthorized Access Attempts:
+-------------------------------
+No unauthorized access attempts found.
+No unexpected open ports found.
+[2023-12-17 12:44:57] Performing System Health Check and Performance Monitoring...
+[2023-12-17 12:44:57] Checking essential services...
+ at 2023-12-17 12:44:57 ssh is running.
+at 2023-12-17 12:44:57 http is not running.
+at 2023-12-17 12:44:57 https is not running.
+at 2023-12-17 12:44:57 mysql is not running.
+[2023-12-17 12:44:57] Monitoring disk usage...
+at 2023-12-17 12:44:57
+Filesystem: /dev/loop0
+Usage: 100%
+-------------------
+at 2023-12-17 12:44:57
+Filesystem: /dev/loop1
+Usage: 100%
+-------------------
+at 2023-12-17 12:44:57
+Filesystem: /dev/loop2
+Usage: 100%
+-------------------
+at 2023-12-17 12:44:57
+Filesystem: /dev/loop3
+Usage: 100%
+-------------------
+at 2023-12-17 12:44:57
+Filesystem: /dev/loop5
+Usage: 100%
+-------------------
+at 2023-12-17 12:44:57
+Filesystem: /dev/loop6
+Usage: 100%
+-------------------
+at 2023-12-17 12:44:57
+Filesystem: /dev/loop7
+Usage: 100%
+-------------------
+at 2023-12-17 12:44:57
+Filesystem: /dev/loop8
+Usage: 100%
+-------------------
+at 2023-12-17 12:44:57
+Filesystem: /dev/loop12
+Usage: 100%
+-------------------
+at 2023-12-17 12:44:57
+Filesystem: /dev/loop18
+Usage: 100%
+-------------------
+at 2023-12-17 12:44:57
+Filesystem: /dev/loop10
+Usage: 100%
+-------------------
+at 2023-12-17 12:44:57
+Filesystem: /dev/loop9
+Usage: 100%
+-------------------
+at 2023-12-17 12:44:57
+Filesystem: /dev/loop19
+Usage: 100%
+-------------------
+at 2023-12-17 12:44:57
+Filesystem: /dev/loop21
+Usage: 100%
+-------------------
+at 2023-12-17 12:44:57
+Filesystem: /dev/loop11
+Usage: 100%
+-------------------
+at 2023-12-17 12:44:57
+Filesystem: /dev/loop22
+Usage: 100%
+-------------------
+at 2023-12-17 12:44:57
+Filesystem: /dev/loop30
+Usage: 100%
+-------------------
+at 2023-12-17 12:44:57
+Filesystem: /dev/loop24
+Usage: 100%
+-------------------
+at 2023-12-17 12:44:57
+Filesystem: /dev/loop13
+Usage: 100%
+-------------------
+at 2023-12-17 12:44:57
+Filesystem: /dev/loop17
+Usage: 100%
+-------------------
+at 2023-12-17 12:44:57
+Filesystem: /dev/loop20
+Usage: 100%
+-------------------
+at 2023-12-17 12:44:57
+Filesystem: /dev/loop28
+Usage: 100%
+-------------------
+at 2023-12-17 12:44:57
+Filesystem: /dev/loop31
+Usage: 100%
+-------------------
+at 2023-12-17 12:44:57
+Filesystem: /dev/loop26
+Usage: 100%
+-------------------
+at 2023-12-17 12:44:57
+Filesystem: /dev/loop25
+Usage: 100%
+-------------------
+at 2023-12-17 12:44:57
+Filesystem: /dev/loop34
+Usage: 100%
+-------------------
+at 2023-12-17 12:44:57
+Filesystem: /dev/loop29
+Usage: 100%
+-------------------
+at 2023-12-17 12:44:57
+Filesystem: /dev/loop36
+Usage: 100%
+-------------------
+at 2023-12-17 12:44:57
+Filesystem: /dev/loop15
+Usage: 100%
+-------------------
+at 2023-12-17 12:44:57
+Filesystem: /dev/loop27
+Usage: 100%
+-------------------
+at 2023-12-17 12:44:57
+Filesystem: /dev/loop14
+Usage: 100%
+-------------------
+at 2023-12-17 12:44:57
+Filesystem: /dev/loop33
+Usage: 100%
+-------------------
+at 2023-12-17 12:44:57
+Filesystem: /dev/loop16
+Usage: 100%
+-------------------
+at 2023-12-17 12:44:57
+Filesystem: /dev/loop23
+Usage: 100%
+-------------------
+at 2023-12-17 12:44:57
+Filesystem: /dev/loop35
+Usage: 100%
+-------------------
+at 2023-12-17 12:44:57
+Filesystem: /dev/loop37
+Usage: 100%
+-------------------
+at 2023-12-17 12:44:57
+Filesystem: /dev/loop32
+Usage: 100%
+-------------------
+at 2023-12-17 12:44:57
+Filesystem: /dev/loop39
+Usage: 100%
+-------------------
+at 2023-12-17 12:44:57
+Filesystem: /dev/loop41
+Usage: 100%
+-------------------
+at 2023-12-17 12:44:57
+Filesystem: /dev/loop38
+Usage: 100%
+-------------------
+at 2023-12-17 12:44:57
+Filesystem: /dev/loop42
+Usage: 100%
+-------------------
+at 2023-12-17 12:44:57
+Filesystem: /dev/loop43
+Usage: 100%
+-------------------
+at 2023-12-17 12:44:57
+Filesystem: /dev/loop40
+Usage: 100%
+-------------------
+at 2023-12-17 12:44:57
+Filesystem: /dev/loop44
+Usage: 100%
+-------------------
+[2023-12-17 12:44:57] Checking read-only file systems...
+2023-12-17 12:44:57 - Read-only file systems:
+/dev/nvme0n1p6
+tmpfs
+systemd-1
+gvfsd-fuse
+/dev/fuse
+/dev/loop0
+/dev/loop1
+/dev/loop2
+/dev/loop3
+/dev/loop5
+/dev/loop6
+/dev/loop7
+/dev/loop8
+/dev/loop12
+/dev/loop18
+/dev/loop10
+/dev/loop9
+/dev/loop19
+/dev/loop21
+/dev/loop11
+/dev/loop22
+/dev/loop30
+/dev/loop24
+/dev/loop13
+/dev/loop17
+/dev/loop20
+/dev/loop28
+/dev/loop31
+/dev/loop26
+/dev/loop25
+/dev/loop34
+/dev/loop29
+/dev/loop36
+/dev/loop15
+/dev/loop27
+/dev/loop14
+/dev/loop33
+/dev/loop16
+/dev/loop23
+/dev/loop35
+/dev/loop37
+/dev/loop32
+/dev/loop39
+/dev/loop41
+/dev/loop38
+/dev/loop42
+/dev/loop43
+/dev/loop40
+/dev/nvme0n1p2
+/dev/loop44
+[2023-12-17 12:44:57] Monitoring processes...
+2023-12-17 12:44:57 - No processes exceed the thresholds.
+[2023-12-17 12:44:58] Analyzing logs...
+2023-12-17 12:44:58 - No Errors or Warnings found in /var/log/syslog.
+2023-12-17 12:44:58 - Log file not found: /var/log/messages
+Unauthorized Access Attempts:
+-------------------------------
+No unauthorized access attempts found.
+No unexpected open ports found.

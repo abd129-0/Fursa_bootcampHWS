@@ -1,0 +1,373 @@
+/var/log/syslog:Dec 14 09:20:45 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[1247]: Error looking up permission: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for geolocation
+/var/log/syslog:Dec 14 09:20:45 abdallah-ROG-Strix-G531GT-G531GT gsd-sharing[1445]: Failed to StopUnit service: GDBus.Error:org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1
+/var/log/syslog:Dec 14 09:20:45 abdallah-ROG-Strix-G531GT-G531GT gsd-sharing[1445]: message repeated 3 times: [ Failed to StopUnit service: GDBus.Error:org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1]
+/var/log/syslog:Dec 14 09:20:45 abdallah-ROG-Strix-G531GT-G531GT org.gnome.Shell.desktop[1557]: > Warning:          Unsupported maximum keycode 569, clipping.
+/var/log/syslog:Dec 14 09:20:45 abdallah-ROG-Strix-G531GT-G531GT org.gnome.Shell.desktop[1557]: > Internal error:   Could not resolve keysym Invalid
+/var/log/syslog:Dec 14 09:20:45 abdallah-ROG-Strix-G531GT-G531GT org.gnome.Shell.desktop[1557]: Errors from xkbcomp are not fatal to the X server
+/var/log/syslog:Dec 14 09:20:48 abdallah-ROG-Strix-G531GT-G531GT docker.dockerd[1778]: time="2023-12-14T09:20:48+02:00" level=warning msg="containerd config version `1` has been deprecated and will be removed in containerd v2.0, please switch to version `2`, see https://github.com/containerd/containerd/blob/main/docs/PLUGINS.md#version-header"
+/var/log/syslog:Dec 14 09:20:48 abdallah-ROG-Strix-G531GT-G531GT docker.dockerd[1778]: time="2023-12-14T09:20:48.838960271+02:00" level=error msg="failed to initialize a tracing processor \"otlp\"" error="no OpenTelemetry endpoint: skip plugin"
+/var/log/syslog:Dec 14 09:20:49 abdallah-ROG-Strix-G531GT-G531GT gsd-sharing[1445]: Failed to StopUnit service: GDBus.Error:org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1
+/var/log/syslog:Dec 14 09:20:49 abdallah-ROG-Strix-G531GT-G531GT gsd-sharing[1445]: message repeated 3 times: [ Failed to StopUnit service: GDBus.Error:org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1]
+/var/log/syslog:Dec 14 09:20:49 abdallah-ROG-Strix-G531GT-G531GT dockerd[1835]: time="2023-12-14T09:20:49.825613642+02:00" level=warning msg="Your kernel does not support CPU realtime scheduler"
+/var/log/syslog:Dec 14 09:20:49 abdallah-ROG-Strix-G531GT-G531GT dockerd[1835]: time="2023-12-14T09:20:49.825625287+02:00" level=warning msg="Your kernel does not support cgroup blkio weight"
+/var/log/syslog:Dec 14 09:20:49 abdallah-ROG-Strix-G531GT-G531GT dockerd[1835]: time="2023-12-14T09:20:49.825629701+02:00" level=warning msg="Your kernel does not support cgroup blkio weight_device"
+/var/log/syslog:Dec 14 09:20:50 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[1247]: Warning: Failed to start gsd-xsettings
+/var/log/syslog:Dec 14 09:20:50 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[1247]: JS WARNING: [resource:///org/gnome/shell/ui/layout.js 24]: reference to undefined property "MetaWindowXwayland"
+/var/log/syslog:Dec 14 09:20:51 abdallah-ROG-Strix-G531GT-G531GT /usr/lib/gdm3/gdm-x-session[2267]: #011(WW) warning, (EE) error, (NI) not implemented, (??) unknown.
+/var/log/syslog:Dec 14 09:20:52 abdallah-ROG-Strix-G531GT-G531GT gnome-session-c[2379]: Error creating FIFO: File exists
+/var/log/syslog:Dec 14 09:20:53 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Error looking up permission: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for geolocation
+/var/log/syslog:Dec 14 09:20:53 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 31 with keysym 31 (keycode a).
+/var/log/syslog:Dec 14 09:20:53 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 32 with keysym 32 (keycode b).
+/var/log/syslog:Dec 14 09:20:53 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 33 with keysym 33 (keycode c).
+/var/log/syslog:Dec 14 09:20:53 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 34 with keysym 34 (keycode d).
+/var/log/syslog:Dec 14 09:20:53 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 38 with keysym 38 (keycode 11).
+/var/log/syslog:Dec 14 09:20:53 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 39 with keysym 39 (keycode 12).
+/var/log/syslog:Dec 14 09:20:53 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 35 with keysym 35 (keycode e).
+/var/log/syslog:Dec 14 09:20:53 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 36 with keysym 36 (keycode f).
+/var/log/syslog:Dec 14 09:20:53 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 37 with keysym 37 (keycode 10).
+/var/log/syslog:Dec 14 09:21:04 abdallah-ROG-Strix-G531GT-G531GT tracker-miner-f[1182]: Error while sending AddMatch() message: The connection is closed
+/var/log/syslog:Dec 14 09:21:04 abdallah-ROG-Strix-G531GT-G531GT tracker-miner-f[1182]: message repeated 2 times: [ Error while sending AddMatch() message: The connection is closed]
+/var/log/syslog:Dec 14 09:21:25 abdallah-ROG-Strix-G531GT-G531GT snap-store[2654]: not handling error download-failed for action refresh: W: An error occurred during the signature verification. The repository is not updated and the previous index files will be used. GPG error: http://dl.google.com/linux/chrome/deb stable InRelease: The following signatures couldn't be verified because the public key is not available: NO_PUBKEY 4EB27DB2A3B88B8B#012E: http://dl.google.com/linux/chrome/deb stable InRelease is not (yet) available (The following signatures couldn't be verified because the public key is not available: NO_PUBKEY 4EB27DB2A3B88B8B)#012E: The repository 'http://ppa.launchpad.net/jblgf0/python/ubuntu focal Release' does not have a Release file.#012W: Updating from such a repository can't be done securely, and is therefore disabled by default.#012W: See apt-secure(8) manpage for repository creation and user configuration details.#012W: An error occurred during the signature verification. The repository is not updated and the previous index files will be used. GPG error: https://deb.opera.com/opera-stable stable InRelease: The following signatures couldn't be verified because the public key is not available: NO_PUBKEY 24A1004B1F11DCC9#012E: https://deb.opera.com/opera-stable stable InRelease is not (yet) available (The following signatures couldn't be verified because the public key is not available: NO_PUBKEY 24A1004B1F11DCC9)
+/var/log/syslog:Dec 14 09:21:30 abdallah-ROG-Strix-G531GT-G531GT snap-store[2654]: not handling error failed for action refresh: W: Target Packages (non-free/binary-amd64/Packages) is configured multiple times in /etc/apt/sources.list:58 and /etc/apt/sources.list.d/opera-stable.list:4#012W: Target Packages (non-free/binary-i386/Packages) is configured multiple times in /etc/apt/sources.list:58 and /etc/apt/sources.list.d/opera-stable.list:4#012W: Target Packages (non-free/binary-all/Packages) is configured multiple times in /etc/apt/sources.list:58 and /etc/apt/sources.list.d/opera-stable.list:4#012W: Target Translations (non-free/i18n/Translation-en_IL) is configured multiple times in /etc/apt/sources.list:58 and /etc/apt/sources.list.d/opera-stable.list:4#012W: Target Translations (non-free/i18n/Translation-en) is configured multiple times in /etc/apt/sources.list:58 and /etc/apt/sources.list.d/opera-stable.list:4#012W: Target DEP-11 (non-free/dep11/Components-amd64.yml) is configured multiple times in /etc/apt/sources.list:58 and /etc/apt/sources.list.d/opera-stable.list:4#012W: Target DEP-11 (non-free/dep11/Components-all.yml) is configured multiple times in /etc/apt/sources.list:58 and /etc/apt/sources.list.d/opera-stable.list:4#012W: Target DEP-11-icons-small (non-free/dep11/icons-48x48.tar) is configured multiple times in /etc/apt/sources.list:58 and /etc/apt/sources.list.d/opera-stable.list:4#012W: Target DEP-11-icons (non-free/dep11/icons-64x64.tar) is configured multiple times in /etc/apt/sources.list:58 and /etc/apt/sources.list.d/opera-stable.list:4#012W: Target DEP-11-icons-hidpi (non-free/dep11/icons-64x64@2.tar) is configured multiple times in /etc/apt/sources.list:58 and /etc/apt/sources.list.d/opera-stable.list:4#012W: Target CNF (non-free/cnf/Commands-amd64) is configured multiple times in /etc/apt/sources.list:58 and /etc/apt/sources.list.d/opera-stable.list:4#012W: Target CNF (non-free/cnf/Commands-all) is configured multiple times in /etc/apt/sources.list:58 and /etc/apt/sources.list.d/opera-stable.list:4#012W: An error occurred during the signature verification. The repository is not updated and the previous index files will be used. GPG error: http://dl.google.com/linux/chrome/deb stable InRelease: The following signatures couldn't be verified because the public key is not available: NO_PUBKEY 4EB27DB2A3B88B8B#012E: http://dl.google.com/linux/chrome/deb stable InRelease is not (yet) available (The following signatures couldn't be verified because the public key is not available: NO_PUBKEY 4EB27DB2A3B88B8B)#012E: The repository 'http://ppa.launchpad.net/jblgf0/python/ubuntu focal Release' does not have a Release file.#012W: Updating from such a repository can't be done securely, and is therefore disabled by default.#012W: See apt-secure(8) manpage for repository creation and user configuration details.
+/var/log/syslog:Dec 14 09:21:32 abdallah-ROG-Strix-G531GT-G531GT snap-store[2654]: not handling error failed for action refresh: E: Failed to fetch http://il.archive.ubuntu.com/ubuntu/dists/focal/InRelease  #012E: Failed to fetch http://il.archive.ubuntu.com/ubuntu/dists/focal-updates/InRelease  #012E: Failed to fetch http://il.archive.ubuntu.com/ubuntu/dists/focal-backports/InRelease  #012E: Failed to fetch http://security.ubuntu.com/ubuntu/dists/focal-security/InRelease  #012E: Failed to fetch https://deb.opera.com/opera-stable/dists/stable/InRelease  #012E: Failed to fetch https://www.mediahuman.com/packages/ubuntu/dists/focal/InRelease  #012E: Failed to fetch http://ppa.launchpad.net/deadsnakes/ppa/ubuntu/dists/focal/InRelease  #012E: Failed to fetch https://download.docker.com/linux/ubuntu/dists/focal/InRelease  #012E: Failed to fetch http://dl.google.com/linux/chrome/deb/dists/stable/InRelease  #012E: Failed to fetch http://ppa.launchpad.net/jblgf0/python/ubuntu/dists/focal/InRelease  #012E: Some index files failed to download. They have been ignored, or old ones used instead.
+/var/log/syslog:Dec 14 09:21:59 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 31 with keysym 31 (keycode a).
+/var/log/syslog:Dec 14 09:21:59 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 32 with keysym 32 (keycode b).
+/var/log/syslog:Dec 14 09:21:59 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 33 with keysym 33 (keycode c).
+/var/log/syslog:Dec 14 09:21:59 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 34 with keysym 34 (keycode d).
+/var/log/syslog:Dec 14 09:21:59 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 38 with keysym 38 (keycode 11).
+/var/log/syslog:Dec 14 09:21:59 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 39 with keysym 39 (keycode 12).
+/var/log/syslog:Dec 14 09:21:59 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 35 with keysym 35 (keycode e).
+/var/log/syslog:Dec 14 09:21:59 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 36 with keysym 36 (keycode f).
+/var/log/syslog:Dec 14 09:21:59 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 37 with keysym 37 (keycode 10).
+/var/log/syslog:Dec 14 09:22:03 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/092203.093436:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+/var/log/syslog:Dec 14 09:22:03 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/092203.953697:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 14 09:22:03 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: Errors:
+/var/log/syslog:Dec 14 09:22:03 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/092203.963185:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 14 09:22:03 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: Errors:
+/var/log/syslog:Dec 14 09:22:03 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/092203.965660:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 14 09:22:03 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: Errors:
+/var/log/syslog:Dec 14 09:22:03 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/092203.968298:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 14 09:22:03 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: Errors:
+/var/log/syslog:Dec 14 09:22:08 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/092208.122947:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 14 09:22:08 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: Errors:
+/var/log/syslog:Dec 14 09:22:18 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[5489]: Fontconfig error: Cannot load default config file: No such file: (null)
+/var/log/syslog:Dec 14 09:26:05 abdallah-ROG-Strix-G531GT-G531GT kernel: [  327.657742] audit: type=1400 audit(1702538765.202:103): apparmor="DENIED" operation="mount" info="failed flags match" error=-13 profile="snap-update-ns.discord" name="/boot/" pid=6785 comm="5" srcname="/var/lib/snapd/hostfs/boot/" flags="rw, bind"
+/var/log/syslog:Dec 14 09:29:07 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/092907.194640:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 14 09:29:07 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: Errors:
+/var/log/syslog:Dec 14 09:29:07 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/092907.201396:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 14 09:29:07 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: Errors:
+/var/log/syslog:Dec 14 09:29:07 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/092907.202854:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 14 09:29:07 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: Errors:
+/var/log/syslog:Dec 14 09:29:07 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/092907.219967:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 14 09:29:07 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: Errors:
+/var/log/syslog:Dec 14 09:29:07 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/092907.249747:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 14 09:29:07 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: Errors:
+/var/log/syslog:Dec 14 09:29:49 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/092949.070573:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 14 09:29:49 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: Errors:
+/var/log/syslog:Dec 14 09:29:49 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/092949.170933:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 14 09:29:49 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: Errors:
+/var/log/syslog:Dec 14 09:29:49 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/092949.173548:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 14 09:29:49 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: Errors:
+/var/log/syslog:Dec 14 09:30:27 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/093027.901610:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 14 09:30:27 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: Errors:
+/var/log/syslog:Dec 14 09:30:27 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/093027.906736:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 14 09:30:27 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: Errors:
+/var/log/syslog:Dec 14 09:45:46 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[5390]: [5390:15:1214/094546.391521:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+/var/log/syslog:Dec 14 09:45:46 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[5390]: [5390:1:1214/094546.397918:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+/var/log/syslog:Dec 14 09:45:46 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[5390]: [5390:15:1214/094546.423526:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+/var/log/syslog:Dec 14 09:45:46 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[5390]: [5390:15:1214/094546.423894:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+/var/log/syslog:Dec 14 09:45:46 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[5390]: [5390:1:1214/094546.424314:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+/var/log/syslog:Dec 14 09:45:46 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[5390]: [5390:1:1214/094546.424790:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+/var/log/syslog:Dec 14 09:45:46 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[5390]: [5390:15:1214/094546.432699:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+/var/log/syslog:Dec 14 09:45:46 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[5390]: [5390:1:1214/094546.433229:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+/var/log/syslog:Dec 14 09:45:47 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/094547.497565:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 14 09:45:47 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: Errors:
+/var/log/syslog:Dec 14 09:46:02 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/094602.837145:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 14 09:46:02 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: Errors:
+/var/log/syslog:Dec 14 09:46:02 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/094602.942737:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 14 09:46:02 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: Errors:
+/var/log/syslog:Dec 14 09:46:02 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/094602.980138:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 14 09:46:02 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: Errors:
+/var/log/syslog:Dec 14 09:46:03 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/094603.053132:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 14 09:46:03 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: Errors:
+/var/log/syslog:Dec 14 09:46:03 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/094603.852514:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+/var/log/syslog:Dec 14 09:46:03 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/094603.852993:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+/var/log/syslog:Dec 14 09:46:04 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/094604.846397:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 14 09:46:04 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: Errors:
+/var/log/syslog:Dec 14 11:49:45 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4918]: [4918:4930:1214/114945.264771:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+/var/log/syslog:Dec 14 12:36:12 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 31 with keysym 31 (keycode a).
+/var/log/syslog:Dec 14 12:36:12 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 32 with keysym 32 (keycode b).
+/var/log/syslog:Dec 14 12:36:12 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 33 with keysym 33 (keycode c).
+/var/log/syslog:Dec 14 12:36:12 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 34 with keysym 34 (keycode d).
+/var/log/syslog:Dec 14 12:36:12 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 35 with keysym 35 (keycode e).
+/var/log/syslog:Dec 14 12:36:12 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 38 with keysym 38 (keycode 11).
+/var/log/syslog:Dec 14 12:36:12 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 37 with keysym 37 (keycode 10).
+/var/log/syslog:Dec 14 12:36:12 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 36 with keysym 36 (keycode f).
+/var/log/syslog:Dec 14 12:36:12 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 39 with keysym 39 (keycode 12).
+/var/log/syslog:Dec 14 12:47:22 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/124722.384896:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 14 12:47:22 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: Errors:
+/var/log/syslog:Dec 14 12:47:26 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/124726.680999:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 14 12:47:26 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: Errors:
+/var/log/syslog:Dec 14 12:47:26 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/124726.683831:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 14 12:47:26 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: Errors:
+/var/log/syslog:Dec 14 12:47:47 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/124747.229832:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 14 12:47:47 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: Errors:
+/var/log/syslog:Dec 14 12:47:47 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/124747.445765:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 14 12:47:47 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: Errors:
+/var/log/syslog:Dec 14 12:47:47 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/124747.512282:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 14 12:47:47 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: Errors:
+/var/log/syslog:Dec 14 12:47:51 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/124751.242793:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 14 12:47:51 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: Errors:
+/var/log/syslog:Dec 14 12:47:51 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/124751.254343:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 14 12:47:51 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: Errors:
+/var/log/syslog:Dec 14 12:47:51 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/124751.498179:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 14 12:47:51 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: Errors:
+/var/log/syslog:Dec 14 12:47:55 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/124755.408299:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 14 12:47:55 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: Errors:
+/var/log/syslog:Dec 14 12:47:55 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/124755.423227:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 14 12:47:55 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: Errors:
+/var/log/syslog:Dec 14 12:47:55 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/124755.426006:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 14 12:47:55 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: Errors:
+/var/log/syslog:Dec 14 12:48:04 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/124804.521842:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 14 12:48:04 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: Errors:
+/var/log/syslog:Dec 14 12:48:06 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 31 with keysym 31 (keycode a).
+/var/log/syslog:Dec 14 12:48:06 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 32 with keysym 32 (keycode b).
+/var/log/syslog:Dec 14 12:48:06 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 33 with keysym 33 (keycode c).
+/var/log/syslog:Dec 14 12:48:06 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 34 with keysym 34 (keycode d).
+/var/log/syslog:Dec 14 12:48:06 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 35 with keysym 35 (keycode e).
+/var/log/syslog:Dec 14 12:48:06 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 38 with keysym 38 (keycode 11).
+/var/log/syslog:Dec 14 12:48:06 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 37 with keysym 37 (keycode 10).
+/var/log/syslog:Dec 14 12:48:06 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 36 with keysym 36 (keycode f).
+/var/log/syslog:Dec 14 12:48:06 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 39 with keysym 39 (keycode 12).
+/var/log/syslog:Dec 14 12:48:12 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 31 with keysym 31 (keycode a).
+/var/log/syslog:Dec 14 12:48:12 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 32 with keysym 32 (keycode b).
+/var/log/syslog:Dec 14 12:48:12 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 33 with keysym 33 (keycode c).
+/var/log/syslog:Dec 14 12:48:12 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 34 with keysym 34 (keycode d).
+/var/log/syslog:Dec 14 12:48:12 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 35 with keysym 35 (keycode e).
+/var/log/syslog:Dec 14 12:48:12 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 38 with keysym 38 (keycode 11).
+/var/log/syslog:Dec 14 12:48:12 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 37 with keysym 37 (keycode 10).
+/var/log/syslog:Dec 14 12:48:12 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 36 with keysym 36 (keycode f).
+/var/log/syslog:Dec 14 12:48:12 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 39 with keysym 39 (keycode 12).
+/var/log/syslog:Dec 14 12:48:15 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 31 with keysym 31 (keycode a).
+/var/log/syslog:Dec 14 12:48:15 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 32 with keysym 32 (keycode b).
+/var/log/syslog:Dec 14 12:48:15 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 33 with keysym 33 (keycode c).
+/var/log/syslog:Dec 14 12:48:15 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 34 with keysym 34 (keycode d).
+/var/log/syslog:Dec 14 12:48:15 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 35 with keysym 35 (keycode e).
+/var/log/syslog:Dec 14 12:48:15 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 38 with keysym 38 (keycode 11).
+/var/log/syslog:Dec 14 12:48:15 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 37 with keysym 37 (keycode 10).
+/var/log/syslog:Dec 14 12:48:15 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 36 with keysym 36 (keycode f).
+/var/log/syslog:Dec 14 12:48:15 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 39 with keysym 39 (keycode 12).
+/var/log/syslog:Dec 14 12:48:52 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 31 with keysym 31 (keycode a).
+/var/log/syslog:Dec 14 12:48:52 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 32 with keysym 32 (keycode b).
+/var/log/syslog:Dec 14 12:48:52 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 33 with keysym 33 (keycode c).
+/var/log/syslog:Dec 14 12:48:52 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 34 with keysym 34 (keycode d).
+/var/log/syslog:Dec 14 12:48:52 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 35 with keysym 35 (keycode e).
+/var/log/syslog:Dec 14 12:48:52 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 38 with keysym 38 (keycode 11).
+/var/log/syslog:Dec 14 12:48:52 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 37 with keysym 37 (keycode 10).
+/var/log/syslog:Dec 14 12:48:52 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 36 with keysym 36 (keycode f).
+/var/log/syslog:Dec 14 12:48:52 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 39 with keysym 39 (keycode 12).
+/var/log/syslog:Dec 14 12:50:41 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/125041.880456:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 14 12:50:41 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: Errors:
+/var/log/syslog:Dec 14 12:59:10 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4918]: [4918:4930:1214/125910.630151:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+/var/log/syslog:Dec 14 12:59:16 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 39 with keysym 39 (keycode 12).
+/var/log/syslog:Dec 14 12:59:16 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 32 with keysym 32 (keycode b).
+/var/log/syslog:Dec 14 12:59:16 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 31 with keysym 31 (keycode a).
+/var/log/syslog:Dec 14 12:59:16 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 33 with keysym 33 (keycode c).
+/var/log/syslog:Dec 14 12:59:16 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 34 with keysym 34 (keycode d).
+/var/log/syslog:Dec 14 12:59:16 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 35 with keysym 35 (keycode e).
+/var/log/syslog:Dec 14 12:59:16 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 38 with keysym 38 (keycode 11).
+/var/log/syslog:Dec 14 12:59:16 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 36 with keysym 36 (keycode f).
+/var/log/syslog:Dec 14 12:59:16 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 37 with keysym 37 (keycode 10).
+/var/log/syslog:Dec 14 12:59:18 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4918]: [4918:4930:1214/125918.588001:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+/var/log/syslog:Dec 14 12:59:48 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/125948.868319:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 14 12:59:48 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: Errors:
+/var/log/syslog:Dec 14 13:00:13 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/130013.382669:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 14 13:00:13 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: Errors:
+/var/log/syslog:Dec 14 14:59:36 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4918]: [4918:4930:1214/145936.145843:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+/var/log/syslog:Dec 14 14:59:41 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4918]: [4918:4930:1214/145941.278361:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+/var/log/syslog:Dec 14 14:59:41 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4918]: [4918:4930:1214/145941.783669:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+/var/log/syslog:Dec 14 15:07:47 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/150747.041795:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 14 15:07:47 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: Errors:
+/var/log/syslog:Dec 14 15:08:08 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/150808.785327:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 14 15:08:08 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: Errors:
+/var/log/syslog:Dec 14 15:08:08 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/150808.935132:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 14 15:08:08 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: Errors:
+/var/log/syslog:Dec 14 15:08:16 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/150816.638605:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 14 15:08:16 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: Errors:
+/var/log/syslog:Dec 14 15:08:19 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/150819.657736:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 14 15:08:19 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: Errors:
+/var/log/syslog:Dec 14 15:13:05 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/151305.034620:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+/var/log/syslog:Dec 14 15:13:05 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/151305.034947:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+/var/log/syslog:Dec 14 15:13:05 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/151305.035200:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+/var/log/syslog:Dec 14 15:13:05 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/151305.035324:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+/var/log/syslog:Dec 14 15:23:13 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/152313.779040:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+/var/log/syslog:Dec 14 15:23:13 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/152313.779554:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+/var/log/syslog:Dec 14 15:23:13 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/152313.779820:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+/var/log/syslog:Dec 14 15:23:13 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4944]: [4944:4944:1214/152313.779972:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+/var/log/syslog:Dec 14 15:40:58 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4918]: [4918:4930:1214/154058.083599:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+/var/log/syslog:Dec 14 15:53:13 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 39 with keysym 39 (keycode 12).
+/var/log/syslog:Dec 14 15:53:13 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 32 with keysym 32 (keycode b).
+/var/log/syslog:Dec 14 15:53:13 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 31 with keysym 31 (keycode a).
+/var/log/syslog:Dec 14 15:53:13 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 33 with keysym 33 (keycode c).
+/var/log/syslog:Dec 14 15:53:13 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 34 with keysym 34 (keycode d).
+/var/log/syslog:Dec 14 15:53:13 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 35 with keysym 35 (keycode e).
+/var/log/syslog:Dec 14 15:53:13 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 38 with keysym 38 (keycode 11).
+/var/log/syslog:Dec 14 15:53:13 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 36 with keysym 36 (keycode f).
+/var/log/syslog:Dec 14 15:53:13 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 37 with keysym 37 (keycode 10).
+/var/log/syslog:Dec 14 15:53:13 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 39 with keysym 39 (keycode 12).
+/var/log/syslog:Dec 14 15:53:13 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 32 with keysym 32 (keycode b).
+/var/log/syslog:Dec 14 15:53:13 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 31 with keysym 31 (keycode a).
+/var/log/syslog:Dec 14 15:53:13 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 33 with keysym 33 (keycode c).
+/var/log/syslog:Dec 14 15:53:13 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 34 with keysym 34 (keycode d).
+/var/log/syslog:Dec 14 15:53:13 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 35 with keysym 35 (keycode e).
+/var/log/syslog:Dec 14 15:53:13 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 38 with keysym 38 (keycode 11).
+/var/log/syslog:Dec 14 15:53:13 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 36 with keysym 36 (keycode f).
+/var/log/syslog:Dec 14 15:53:13 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: Window manager warning: Overwriting existing binding of keysym 37 with keysym 37 (keycode 10).
+/var/log/syslog:Dec 14 15:53:14 abdallah-ROG-Strix-G531GT-G531GT pulseaudio[2160]: ICE default IO error handler doing an exit(), pid = 2160, errno = 32
+/var/log/syslog:Dec 14 15:53:14 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2400]: gnome-shell: Fatal IO error 0 (Success) on X server :0.
+/var/log/syslog:Dec 14 15:53:14 abdallah-ROG-Strix-G531GT-G531GT update-notifier[4414]: update-notifier: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+/var/log/syslog:Dec 14 15:53:14 abdallah-ROG-Strix-G531GT-G531GT evolution-alarm[2571]: evolution-alarm-notify: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+/var/log/syslog:Dec 17 08:57:21 abdallah-ROG-Strix-G531GT-G531GT kernel: [    0.293199] ACPI BIOS Error (bug): Failure creating named object [\_GPE._E4A], AE_ALREADY_EXISTS (20210730/dswload2-326)
+/var/log/syslog:Dec 17 08:57:21 abdallah-ROG-Strix-G531GT-G531GT kernel: [    0.293213] ACPI Error: AE_ALREADY_EXISTS, During name lookup/catalog (20210730/psobject-220)
+/var/log/syslog:Dec 17 08:57:21 abdallah-ROG-Strix-G531GT-G531GT kernel: [    0.575681] pcieport 0000:00:1d.0: DPC: error containment capabilities: Int Msg #0, RPExt+ PoisonedTLP+ SwTrigger+ RP PIO Log 4, DL_ActiveErr+
+/var/log/syslog:Dec 17 08:57:21 abdallah-ROG-Strix-G531GT-G531GT kernel: [    0.576266] pcieport 0000:00:1d.6: DPC: error containment capabilities: Int Msg #0, RPExt+ PoisonedTLP+ SwTrigger+ RP PIO Log 4, DL_ActiveErr+
+/var/log/syslog:Dec 17 08:57:21 abdallah-ROG-Strix-G531GT-G531GT systemd[1]: Condition check resulted in Process error reports when automatic reporting is enabled (file watch) being skipped.
+/var/log/syslog:Dec 17 08:57:21 abdallah-ROG-Strix-G531GT-G531GT kernel: [    0.766170] RAS: Correctable Errors collector initialized.
+/var/log/syslog:Dec 17 08:57:21 abdallah-ROG-Strix-G531GT-G531GT kernel: [    3.314477] EXT4-fs (nvme0n1p6): re-mounted. Opts: errors=remount-ro. Quota mode: none.
+/var/log/syslog:Dec 17 08:57:21 abdallah-ROG-Strix-G531GT-G531GT kernel: [    3.992873] ACPI Warning: \_SB.IETM._TRT: Return Package has no elements (empty) (20210730/nsprepkg-94)
+/var/log/syslog:Dec 17 08:57:21 abdallah-ROG-Strix-G531GT-G531GT kernel: [    4.415853] ACPI Warning: \_SB.PCI0.PEG0.PEGP._DSM: Argument #4 type mismatch - Found [Buffer], ACPI requires [Package] (20210730/nsarguments-61)
+/var/log/syslog:Dec 17 08:57:21 abdallah-ROG-Strix-G531GT-G531GT thermald[914]: I/O warning : failed to load external entity "/etc/thermald/thermal-conf.xml"
+/var/log/syslog:Dec 17 08:57:21 abdallah-ROG-Strix-G531GT-G531GT thermald[914]: [WARN]error: could not parse file /etc/thermald/thermal-conf.xml
+/var/log/syslog:Dec 17 08:57:21 abdallah-ROG-Strix-G531GT-G531GT thermald[914]: I/O warning : failed to load external entity "/etc/thermald/thermal-conf.xml"
+/var/log/syslog:Dec 17 08:57:21 abdallah-ROG-Strix-G531GT-G531GT thermald[914]: [WARN]error: could not parse file /etc/thermald/thermal-conf.xml
+/var/log/syslog:Dec 17 08:57:21 abdallah-ROG-Strix-G531GT-G531GT thermald[914]: I/O warning : failed to load external entity "/etc/thermald/thermal-conf.xml"
+/var/log/syslog:Dec 17 08:57:21 abdallah-ROG-Strix-G531GT-G531GT thermald[914]: [WARN]error: could not parse file /etc/thermald/thermal-conf.xml
+/var/log/syslog:Dec 17 08:57:21 abdallah-ROG-Strix-G531GT-G531GT networkd-dispatcher[1118]: WARNING: systemd-networkd is not running, output will be incomplete.
+/var/log/syslog:Dec 17 08:57:21 abdallah-ROG-Strix-G531GT-G531GT networkd-dispatcher[892]: ERROR:Unknown state for interface NetworkctlListState(idx=1, name='lo', type='loopback', operational='n/a', administrative='unmanaged'): n/a
+/var/log/syslog:Dec 17 08:57:21 abdallah-ROG-Strix-G531GT-G531GT networkd-dispatcher[892]: ERROR:Unknown state for interface NetworkctlListState(idx=2, name='eno2', type='ether', operational='n/a', administrative='unmanaged'): n/a
+/var/log/syslog:Dec 17 08:57:21 abdallah-ROG-Strix-G531GT-G531GT networkd-dispatcher[892]: ERROR:Unknown state for interface NetworkctlListState(idx=3, name='wlo1', type='wlan', operational='n/a', administrative='unmanaged'): n/a
+/var/log/syslog:Dec 17 08:57:21 abdallah-ROG-Strix-G531GT-G531GT containerd[1008]: time="2023-12-17T08:57:21+02:00" level=warning msg="containerd config version `1` has been deprecated and will be removed in containerd v2.0, please switch to version `2`, see https://github.com/containerd/containerd/blob/main/docs/PLUGINS.md#version-header"
+/var/log/syslog:Dec 17 08:57:21 abdallah-ROG-Strix-G531GT-G531GT containerd[1008]: time="2023-12-17T08:57:21.517338172+02:00" level=info msg="skip loading plugin \"io.containerd.snapshotter.v1.btrfs\"..." error="path /var/lib/containerd/io.containerd.snapshotter.v1.btrfs (ext4) must be a btrfs filesystem to be used with the btrfs snapshotter: skip plugin" type=io.containerd.snapshotter.v1
+/var/log/syslog:Dec 17 08:57:21 abdallah-ROG-Strix-G531GT-G531GT containerd[1008]: time="2023-12-17T08:57:21.517375014+02:00" level=warning msg="failed to load plugin io.containerd.snapshotter.v1.devmapper" error="devmapper not configured"
+/var/log/syslog:Dec 17 08:57:21 abdallah-ROG-Strix-G531GT-G531GT containerd[1008]: time="2023-12-17T08:57:21.519627523+02:00" level=info msg="skip loading plugin \"io.containerd.snapshotter.v1.zfs\"..." error="path /var/lib/containerd/io.containerd.snapshotter.v1.zfs must be a zfs filesystem to be used with the zfs snapshotter: skip plugin" type=io.containerd.snapshotter.v1
+/var/log/syslog:Dec 17 08:57:21 abdallah-ROG-Strix-G531GT-G531GT containerd[1008]: time="2023-12-17T08:57:21.519662565+02:00" level=warning msg="could not use snapshotter devmapper in metadata plugin" error="devmapper not configured"
+/var/log/syslog:Dec 17 08:57:21 abdallah-ROG-Strix-G531GT-G531GT containerd[1008]: time="2023-12-17T08:57:21.522516808+02:00" level=info msg="skip loading plugin \"io.containerd.tracing.processor.v1.otlp\"..." error="no OpenTelemetry endpoint: skip plugin" type=io.containerd.tracing.processor.v1
+/var/log/syslog:Dec 17 08:57:21 abdallah-ROG-Strix-G531GT-G531GT containerd[1008]: time="2023-12-17T08:57:21.522545197+02:00" level=error msg="failed to initialize a tracing processor \"otlp\"" error="no OpenTelemetry endpoint: skip plugin"
+/var/log/syslog:Dec 17 08:57:21 abdallah-ROG-Strix-G531GT-G531GT NetworkManager[884]: <warn>  [1702796241.9167] Error: failed to open /run/network/ifstate
+/var/log/syslog:Dec 17 08:57:22 abdallah-ROG-Strix-G531GT-G531GT gnome-session[1185]: gnome-session-binary[1185]: WARNING: Falling back to non-systemd startup procedure due to error: GDBus.Error:org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1
+/var/log/syslog:Dec 17 08:57:22 abdallah-ROG-Strix-G531GT-G531GT gnome-session-binary[1185]: WARNING: Falling back to non-systemd startup procedure due to error: GDBus.Error:org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1
+/var/log/syslog:Dec 17 08:57:24 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[1233]: Error looking up permission: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for geolocation
+/var/log/syslog:Dec 17 08:57:24 abdallah-ROG-Strix-G531GT-G531GT gsd-sharing[1415]: Failed to StopUnit service: GDBus.Error:org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1
+/var/log/syslog:Dec 17 08:57:24 abdallah-ROG-Strix-G531GT-G531GT gsd-sharing[1415]: message repeated 3 times: [ Failed to StopUnit service: GDBus.Error:org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1]
+/var/log/syslog:Dec 17 08:57:24 abdallah-ROG-Strix-G531GT-G531GT org.gnome.Shell.desktop[1529]: > Warning:          Unsupported maximum keycode 569, clipping.
+/var/log/syslog:Dec 17 08:57:24 abdallah-ROG-Strix-G531GT-G531GT org.gnome.Shell.desktop[1529]: Errors from xkbcomp are not fatal to the X server
+/var/log/syslog:Dec 17 08:57:27 abdallah-ROG-Strix-G531GT-G531GT gsd-sharing[1415]: Failed to StopUnit service: GDBus.Error:org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1
+/var/log/syslog:Dec 17 08:57:27 abdallah-ROG-Strix-G531GT-G531GT gsd-sharing[1415]: message repeated 3 times: [ Failed to StopUnit service: GDBus.Error:org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1]
+/var/log/syslog:Dec 17 08:57:28 abdallah-ROG-Strix-G531GT-G531GT dockerd[1746]: time="2023-12-17T08:57:28.043029950+02:00" level=warning msg="Your kernel does not support CPU realtime scheduler"
+/var/log/syslog:Dec 17 08:57:28 abdallah-ROG-Strix-G531GT-G531GT dockerd[1746]: time="2023-12-17T08:57:28.043044124+02:00" level=warning msg="Your kernel does not support cgroup blkio weight"
+/var/log/syslog:Dec 17 08:57:28 abdallah-ROG-Strix-G531GT-G531GT dockerd[1746]: time="2023-12-17T08:57:28.043052859+02:00" level=warning msg="Your kernel does not support cgroup blkio weight_device"
+/var/log/syslog:Dec 17 08:57:28 abdallah-ROG-Strix-G531GT-G531GT docker.dockerd[1733]: time="2023-12-17T08:57:28+02:00" level=warning msg="containerd config version `1` has been deprecated and will be removed in containerd v2.0, please switch to version `2`, see https://github.com/containerd/containerd/blob/main/docs/PLUGINS.md#version-header"
+/var/log/syslog:Dec 17 08:57:28 abdallah-ROG-Strix-G531GT-G531GT docker.dockerd[1733]: time="2023-12-17T08:57:28.431182213+02:00" level=error msg="failed to initialize a tracing processor \"otlp\"" error="no OpenTelemetry endpoint: skip plugin"
+/var/log/syslog:Dec 17 08:57:29 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[1233]: Warning: Failed to start gsd-xsettings
+/var/log/syslog:Dec 17 08:57:29 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[1233]: JS WARNING: [resource:///org/gnome/shell/ui/layout.js 24]: reference to undefined property "MetaWindowXwayland"
+/var/log/syslog:Dec 17 08:57:38 abdallah-ROG-Strix-G531GT-G531GT /usr/lib/gdm3/gdm-x-session[2247]: #011(WW) warning, (EE) error, (NI) not implemented, (??) unknown.
+/var/log/syslog:Dec 17 08:57:39 abdallah-ROG-Strix-G531GT-G531GT gnome-session-c[2359]: Error creating FIFO: File exists
+/var/log/syslog:Dec 17 08:57:41 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2380]: Error looking up permission: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for geolocation
+/var/log/syslog:Dec 17 08:57:42 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2380]: Window manager warning: Overwriting existing binding of keysym 38 with keysym 38 (keycode 11).
+/var/log/syslog:Dec 17 08:57:42 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2380]: Window manager warning: Overwriting existing binding of keysym 39 with keysym 39 (keycode 12).
+/var/log/syslog:Dec 17 08:57:42 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2380]: Window manager warning: Overwriting existing binding of keysym 31 with keysym 31 (keycode a).
+/var/log/syslog:Dec 17 08:57:42 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2380]: Window manager warning: Overwriting existing binding of keysym 32 with keysym 32 (keycode b).
+/var/log/syslog:Dec 17 08:57:42 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2380]: Window manager warning: Overwriting existing binding of keysym 33 with keysym 33 (keycode c).
+/var/log/syslog:Dec 17 08:57:42 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2380]: Window manager warning: Overwriting existing binding of keysym 34 with keysym 34 (keycode d).
+/var/log/syslog:Dec 17 08:57:42 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2380]: Window manager warning: Overwriting existing binding of keysym 35 with keysym 35 (keycode e).
+/var/log/syslog:Dec 17 08:57:42 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2380]: Window manager warning: Overwriting existing binding of keysym 36 with keysym 36 (keycode f).
+/var/log/syslog:Dec 17 08:57:42 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2380]: Window manager warning: Overwriting existing binding of keysym 37 with keysym 37 (keycode 10).
+/var/log/syslog:Dec 17 08:57:52 abdallah-ROG-Strix-G531GT-G531GT tracker-miner-f[1169]: Error while sending AddMatch() message: The connection is closed
+/var/log/syslog:Dec 17 08:57:52 abdallah-ROG-Strix-G531GT-G531GT tracker-miner-f[1169]: Error while sending AddMatch() message: The connection is closed
+/var/log/syslog:Dec 17 08:57:52 abdallah-ROG-Strix-G531GT-G531GT tracker-miner-f[1169]: Error while sending AddMatch() message: The connection is closed
+/var/log/syslog:Dec 17 08:57:52 abdallah-ROG-Strix-G531GT-G531GT snap-store[2637]: not handling error not-supported for action refresh: failed to download file: OpenSSL SSL_connect: Connection reset by peer in connection to cdn.fwupd.org:443 
+/var/log/syslog:Dec 17 08:57:52 abdallah-ROG-Strix-G531GT-G531GT snap-store[2637]: not handling error not-supported for action refresh: failed to download file: OpenSSL SSL_connect: Connection reset by peer in connection to cdn.fwupd.org:443 
+/var/log/syslog:Dec 17 08:58:12 abdallah-ROG-Strix-G531GT-G531GT snap-store[2637]: not handling error download-failed for action refresh: W: An error occurred during the signature verification. The repository is not updated and the previous index files will be used. GPG error: http://dl.google.com/linux/chrome/deb stable InRelease: The following signatures couldn't be verified because the public key is not available: NO_PUBKEY 4EB27DB2A3B88B8B#012E: http://dl.google.com/linux/chrome/deb stable InRelease is not (yet) available (The following signatures couldn't be verified because the public key is not available: NO_PUBKEY 4EB27DB2A3B88B8B)#012W: An error occurred during the signature verification. The repository is not updated and the previous index files will be used. GPG error: https://deb.opera.com/opera-stable stable InRelease: The following signatures couldn't be verified because the public key is not available: NO_PUBKEY 24A1004B1F11DCC9#012E: https://deb.opera.com/opera-stable stable InRelease is not (yet) available (The following signatures couldn't be verified because the public key is not available: NO_PUBKEY 24A1004B1F11DCC9)#012E: The repository 'http://ppa.launchpad.net/jblgf0/python/ubuntu focal Release' does not have a Release file.#012W: Updating from such a repository can't be done securely, and is therefore disabled by default.#012W: See apt-secure(8) manpage for repository creation and user configuration details.
+/var/log/syslog:Dec 17 08:58:14 abdallah-ROG-Strix-G531GT-G531GT snap-store[2637]: not handling error failed for action refresh: W: Target Packages (non-free/binary-amd64/Packages) is configured multiple times in /etc/apt/sources.list:58 and /etc/apt/sources.list.d/opera-stable.list:4#012W: Target Packages (non-free/binary-i386/Packages) is configured multiple times in /etc/apt/sources.list:58 and /etc/apt/sources.list.d/opera-stable.list:4#012W: Target Packages (non-free/binary-all/Packages) is configured multiple times in /etc/apt/sources.list:58 and /etc/apt/sources.list.d/opera-stable.list:4#012W: Target Translations (non-free/i18n/Translation-en_IL) is configured multiple times in /etc/apt/sources.list:58 and /etc/apt/sources.list.d/opera-stable.list:4#012W: Target Translations (non-free/i18n/Translation-en) is configured multiple times in /etc/apt/sources.list:58 and /etc/apt/sources.list.d/opera-stable.list:4#012W: Target DEP-11 (non-free/dep11/Components-amd64.yml) is configured multiple times in /etc/apt/sources.list:58 and /etc/apt/sources.list.d/opera-stable.list:4#012W: Target DEP-11 (non-free/dep11/Components-all.yml) is configured multiple times in /etc/apt/sources.list:58 and /etc/apt/sources.list.d/opera-stable.list:4#012W: Target DEP-11-icons-small (non-free/dep11/icons-48x48.tar) is configured multiple times in /etc/apt/sources.list:58 and /etc/apt/sources.list.d/opera-stable.list:4#012W: Target DEP-11-icons (non-free/dep11/icons-64x64.tar) is configured multiple times in /etc/apt/sources.list:58 and /etc/apt/sources.list.d/opera-stable.list:4#012W: Target DEP-11-icons-hidpi (non-free/dep11/icons-64x64@2.tar) is configured multiple times in /etc/apt/sources.list:58 and /etc/apt/sources.list.d/opera-stable.list:4#012W: Target CNF (non-free/cnf/Commands-amd64) is configured multiple times in /etc/apt/sources.list:58 and /etc/apt/sources.list.d/opera-stable.list:4#012W: Target CNF (non-free/cnf/Commands-all) is configured multiple times in /etc/apt/sources.list:58 and /etc/apt/sources.list.d/opera-stable.list:4#012E: Failed to fetch http://il.archive.ubuntu.com/ubuntu/dists/focal/InRelease  #012E: Failed to fetch http://il.archive.ubuntu.com/ubuntu/dists/focal-updates/InRelease  #012E: Failed to fetch http://il.archive.ubuntu.com/ubuntu/dists/focal-backports/InRelease  #012E: Failed to fetch http://security.ubuntu.com/ubuntu/dists/focal-security/InRelease  #012E: Failed to fetch https://deb.opera.com/opera-stable/dists/stable/InRelease  #012E: Failed to fetch https://www.mediahuman.com/packages/ubuntu/dists/focal/InRelease  #012E: Failed to fetch http://ppa.launchpad.net/deadsnakes/ppa/ubuntu/dists/focal/InRelease  #012E: Failed to fetch https://download.docker.com/linux/ubuntu/dists/focal/InRelease  #012E: Failed to fetch http://dl.google.com/linux/chrome/deb/dists/stable/InRelease  #012E: Failed to fetch http://ppa.launchpad.net/jblgf0/python/ubuntu/dists/focal/InRelease  #012E: Some index files failed to download. They have been ignored, or old ones used instead.
+/var/log/syslog:Dec 17 08:58:16 abdallah-ROG-Strix-G531GT-G531GT snap-store[2637]: not handling error failed for action refresh: E: Failed to fetch http://il.archive.ubuntu.com/ubuntu/dists/focal/InRelease  #012E: Failed to fetch http://il.archive.ubuntu.com/ubuntu/dists/focal-updates/InRelease  #012E: Failed to fetch http://il.archive.ubuntu.com/ubuntu/dists/focal-backports/InRelease  #012E: Failed to fetch http://security.ubuntu.com/ubuntu/dists/focal-security/InRelease  #012E: Failed to fetch https://deb.opera.com/opera-stable/dists/stable/InRelease  #012E: Failed to fetch https://www.mediahuman.com/packages/ubuntu/dists/focal/InRelease  #012E: Failed to fetch http://ppa.launchpad.net/deadsnakes/ppa/ubuntu/dists/focal/InRelease  #012E: Failed to fetch https://download.docker.com/linux/ubuntu/dists/focal/InRelease  #012E: Failed to fetch http://dl.google.com/linux/chrome/deb/dists/stable/InRelease  #012E: Failed to fetch http://ppa.launchpad.net/jblgf0/python/ubuntu/dists/focal/InRelease  #012E: Some index files failed to download. They have been ignored, or old ones used instead.
+/var/log/syslog:Dec 17 08:58:28 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4135]: [4135:4135:1217/085828.115900:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+/var/log/syslog:Dec 17 08:58:29 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4135]: [4135:4135:1217/085829.277661:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 17 08:58:29 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4135]: Errors:
+/var/log/syslog:Dec 17 08:58:29 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4135]: [4135:4135:1217/085829.306186:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 17 08:58:29 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4135]: Errors:
+/var/log/syslog:Dec 17 08:58:29 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4135]: [4135:4135:1217/085829.309976:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 17 08:58:29 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4135]: Errors:
+/var/log/syslog:Dec 17 08:58:29 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4135]: [4135:4135:1217/085829.312563:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 17 08:58:29 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4135]: Errors:
+/var/log/syslog:Dec 17 08:58:32 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2380]: Window manager warning: Overwriting existing binding of keysym 38 with keysym 38 (keycode 11).
+/var/log/syslog:Dec 17 08:58:32 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2380]: Window manager warning: Overwriting existing binding of keysym 39 with keysym 39 (keycode 12).
+/var/log/syslog:Dec 17 08:58:32 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2380]: Window manager warning: Overwriting existing binding of keysym 31 with keysym 31 (keycode a).
+/var/log/syslog:Dec 17 08:58:32 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2380]: Window manager warning: Overwriting existing binding of keysym 32 with keysym 32 (keycode b).
+/var/log/syslog:Dec 17 08:58:32 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2380]: Window manager warning: Overwriting existing binding of keysym 33 with keysym 33 (keycode c).
+/var/log/syslog:Dec 17 08:58:32 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2380]: Window manager warning: Overwriting existing binding of keysym 34 with keysym 34 (keycode d).
+/var/log/syslog:Dec 17 08:58:32 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2380]: Window manager warning: Overwriting existing binding of keysym 35 with keysym 35 (keycode e).
+/var/log/syslog:Dec 17 08:58:32 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2380]: Window manager warning: Overwriting existing binding of keysym 36 with keysym 36 (keycode f).
+/var/log/syslog:Dec 17 08:58:32 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2380]: Window manager warning: Overwriting existing binding of keysym 37 with keysym 37 (keycode 10).
+/var/log/syslog:Dec 17 08:58:33 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4135]: [4135:4135:1217/085833.079385:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 17 08:58:33 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4135]: Errors:
+/var/log/syslog:Dec 17 08:58:33 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4135]: [4135:4135:1217/085833.082279:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 17 08:58:33 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4135]: Errors:
+/var/log/syslog:Dec 17 08:58:33 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4135]: [4135:4135:1217/085833.086793:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 17 08:58:33 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4135]: Errors:
+/var/log/syslog:Dec 17 08:58:34 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4135]: [4135:4135:1217/085834.650271:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 17 08:58:34 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4135]: Errors:
+/var/log/syslog:Dec 17 08:58:34 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4135]: [4135:4135:1217/085834.806844:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 17 08:58:34 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4135]: Errors:
+/var/log/syslog:Dec 17 08:58:34 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4135]: [4135:4135:1217/085834.809115:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 17 08:58:34 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4135]: Errors:
+/var/log/syslog:Dec 17 08:58:37 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2380]: Received error from D-Bus search provider org.gnome.GPaste.Ui.desktop: Gio.DBusError: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.gnome.Shell.SearchProvider2” on object at path /org/gnome/GPaste/SearchProvider
+/var/log/syslog:Dec 17 08:58:44 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4525]: Fontconfig error: Cannot load default config file: No such file: (null)
+/var/log/syslog:Dec 17 09:03:20 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2380]: Window manager warning: Overwriting existing binding of keysym 38 with keysym 38 (keycode 11).
+/var/log/syslog:Dec 17 09:03:20 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2380]: Window manager warning: Overwriting existing binding of keysym 39 with keysym 39 (keycode 12).
+/var/log/syslog:Dec 17 09:03:20 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2380]: Window manager warning: Overwriting existing binding of keysym 31 with keysym 31 (keycode a).
+/var/log/syslog:Dec 17 09:03:20 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2380]: Window manager warning: Overwriting existing binding of keysym 32 with keysym 32 (keycode b).
+/var/log/syslog:Dec 17 09:03:20 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2380]: Window manager warning: Overwriting existing binding of keysym 33 with keysym 33 (keycode c).
+/var/log/syslog:Dec 17 09:03:20 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2380]: Window manager warning: Overwriting existing binding of keysym 34 with keysym 34 (keycode d).
+/var/log/syslog:Dec 17 09:03:20 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2380]: Window manager warning: Overwriting existing binding of keysym 35 with keysym 35 (keycode e).
+/var/log/syslog:Dec 17 09:03:20 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2380]: Window manager warning: Overwriting existing binding of keysym 36 with keysym 36 (keycode f).
+/var/log/syslog:Dec 17 09:03:20 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2380]: Window manager warning: Overwriting existing binding of keysym 37 with keysym 37 (keycode 10).
+/var/log/syslog:Dec 17 09:04:34 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2380]: Window manager warning: Overwriting existing binding of keysym 38 with keysym 38 (keycode 11).
+/var/log/syslog:Dec 17 09:04:34 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2380]: Window manager warning: Overwriting existing binding of keysym 39 with keysym 39 (keycode 12).
+/var/log/syslog:Dec 17 09:04:34 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2380]: Window manager warning: Overwriting existing binding of keysym 31 with keysym 31 (keycode a).
+/var/log/syslog:Dec 17 09:04:34 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2380]: Window manager warning: Overwriting existing binding of keysym 32 with keysym 32 (keycode b).
+/var/log/syslog:Dec 17 09:04:34 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2380]: Window manager warning: Overwriting existing binding of keysym 33 with keysym 33 (keycode c).
+/var/log/syslog:Dec 17 09:04:34 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2380]: Window manager warning: Overwriting existing binding of keysym 34 with keysym 34 (keycode d).
+/var/log/syslog:Dec 17 09:04:34 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2380]: Window manager warning: Overwriting existing binding of keysym 35 with keysym 35 (keycode e).
+/var/log/syslog:Dec 17 09:04:34 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2380]: Window manager warning: Overwriting existing binding of keysym 36 with keysym 36 (keycode f).
+/var/log/syslog:Dec 17 09:04:34 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[2380]: Window manager warning: Overwriting existing binding of keysym 37 with keysym 37 (keycode 10).
+/var/log/syslog:Dec 17 09:04:52 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4135]: [4135:4135:1217/090452.391077:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 17 09:04:52 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4135]: Errors:
+/var/log/syslog:Dec 17 09:04:52 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4135]: [4135:4135:1217/090452.395041:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 17 09:04:52 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4135]: Errors:
+/var/log/syslog:Dec 17 09:04:53 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4135]: [4135:4135:1217/090453.217789:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 17 09:04:53 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4135]: Errors:
+/var/log/syslog:Dec 17 09:04:53 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4135]: [4135:4135:1217/090453.356153:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 17 09:04:53 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4135]: Errors:
+/var/log/syslog:Dec 17 09:04:53 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4135]: [4135:4135:1217/090453.440710:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 17 09:04:53 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4135]: Errors:
+/var/log/syslog:Dec 17 09:04:53 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4135]: [4135:4135:1217/090453.445478:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 17 09:04:53 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4135]: Errors:
+/var/log/syslog:Dec 17 09:04:53 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4135]: [4135:4135:1217/090453.508170:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 17 09:04:53 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4135]: Errors:
+/var/log/syslog:Dec 17 09:04:53 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4135]: [4135:4135:1217/090453.511314:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 17 09:04:53 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4135]: Errors:
+/var/log/syslog:Dec 17 09:04:53 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4135]: [4135:4135:1217/090453.512475:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 17 09:04:53 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4135]: Errors:
+/var/log/syslog:Dec 17 09:04:55 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4135]: [4135:4135:1217/090455.926636:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 17 09:04:55 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4135]: Errors:
+/var/log/syslog:Dec 17 09:06:37 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4135]: [4135:4135:1217/090637.164194:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 17 09:06:37 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4135]: Errors:
+/var/log/syslog:Dec 17 09:10:05 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4135]: [4135:4135:1217/091005.623069:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 17 09:10:05 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4135]: Errors:
+/var/log/syslog:Dec 17 09:10:05 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4135]: [4135:4135:1217/091005.769486:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 17 09:10:05 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4135]: Errors:
+/var/log/syslog:Dec 17 09:10:08 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4135]: [4135:4135:1217/091008.952431:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 17 09:10:08 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4135]: Errors:
+/var/log/syslog:Dec 17 09:10:45 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4135]: [4135:4135:1217/091045.502793:ERROR:shared_context_state.cc(74)] Skia shader compilation error
+/var/log/syslog:Dec 17 09:10:45 abdallah-ROG-Strix-G531GT-G531GT gnome-shell[4135]: Errors:
+/var/log/syslog:Dec 17 09:59:35 abdallah-ROG-Strix-G531GT-G531GT kernel: [ 3741.875269] audit: type=1400 audit(1702799975.509:109): apparmor="ALLOWED" operation="exec" info="no new privs" error=-1 profile="snap.code.code" name="/usr/bin/man" pid=22776 comm="sh" requested_mask="x" denied_mask="x" fsuid=1000 ouid=0 target="/usr/bin/man"
